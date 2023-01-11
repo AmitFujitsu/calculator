@@ -2,6 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": "http://amitfujitsu.github.io/calculator",
   "devDependencies": {
     "chai": "^4.2.0",
     "gh-pages": "^2.2.0",
